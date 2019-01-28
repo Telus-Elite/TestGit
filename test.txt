@@ -1,2 +1,3 @@
 Something to commit
 Additional changes
+Added something
