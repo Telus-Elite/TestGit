@@ -1,3 +1,4 @@
 Something to commit
 Additional changes
 Added something
+Fourth line added
